@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How to wait animations complete in Playwright script](https://dev.to/sergeyt/how-to-wait-animations-complete-in-playwright-script-50fb)
+- [How to wait for animations to complete in Playwright script](https://dev.to/sergeyt/how-to-wait-animations-complete-in-playwright-script-50fb)
 - [How to add style loaders to webpack](https://dev.to/sergeyt/how-to-add-style-loaders-to-webpack-12co)
 - [createState function using React Context and ImmerJS](https://dev.to/sergeyt/createstate-function-using-react-context-and-immerjs-2hkp)
 - [JAMstack comments](https://dev.to/sergeyt/jamstack-comments-4128)
