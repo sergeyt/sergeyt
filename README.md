@@ -19,6 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Micro app to render your JSON resume](https://dev.to/sergeyt/micro-app-to-render-your-json-resume-2186)
+- [React component to render JSON Resume](https://dev.to/sergeyt/react-component-to-render-json-resume-583p)
+- [How to wait for animations to complete in Playwright script](https://dev.to/sergeyt/how-to-wait-animations-complete-in-playwright-script-50fb)
+- [How to add style loaders to webpack](https://dev.to/sergeyt/how-to-add-style-loaders-to-webpack-12co)
+- [createState function using React Context and ImmerJS](https://dev.to/sergeyt/createstate-function-using-react-context-and-immerjs-2hkp)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
