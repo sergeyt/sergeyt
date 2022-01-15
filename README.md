@@ -20,6 +20,10 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Lets build mini Google Drive clone quickly](https://medium.com/@stodyshev/lets-build-mini-google-drive-clone-quickly-72d602662ee1?source=rss-9e8568fff0a8------2)
+- [Lets build mini Google Drive clone quickly](https://dev.to/sergeyt/lets-build-mini-google-drive-clone-quickly-29m6)
+- [LinguaBook - React app for learning Basic English](https://dev.to/sergeyt/linguabook-react-app-for-learning-basic-english-15pk)
+- [Micro app to render your JSON resume](https://dev.to/sergeyt/micro-app-to-render-your-json-resume-2186)
+- [React component to render JSON Resume](https://dev.to/sergeyt/react-component-to-render-json-resume-583p)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
