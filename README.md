@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm SergeyT</h1>
-<h3 align="center">A passionate software developer from Russia</h3>
+<h3 align="center">Experienced software developer from Russia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sergeyt&label=Profile%20views&color=0e75b6&style=flat" alt="sergeyt" /> </p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsergeyt&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergeyt" alt="sergeyt" /></a> </p>
 
-- 🔭 I’m currently working on [DEI.AI](https://dei.ai)
+- 🔭 I’m currently working on [Regie.ai](https://regie.ai)
 
 - 👨‍💻 All of my projects are available at [https://tsvbits.com/projects](https://tsvbits.com/projects)
 
-- 📝 I regularly write articles on [https://tsvbits.com](https://tsvbits.com)
+- 📝 I spontanously write articles on [https://tsvbits.com](https://tsvbits.com)
 
 - 📫 How to reach me **stodyshev@gmail.com**
 
-- 📄 Know about my experiences [https://tsvbits.com/cv](https://tsvbits.com/cv)
+- 📄 Know about my experiences [https://tsvbits.com/resume](https://tsvbits.com/resume)
 
 - ⚡ Fun fact **I am Top 5% F# Developer in Russia according to CodersRank :)**
 
