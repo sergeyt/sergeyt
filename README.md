@@ -11,7 +11,7 @@
 [![BioLink](https://img.shields.io/badge/-biolink-0077b5?style=round-square&logo=biolink&logoColor=white&link=https://bio.link/sergeyt)](https://bio.link/sergeyt)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergeyt" alt="sergeyt" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergeyt&column=3" alt="sergeyt" /></a> </p>
 
 - 🔭 I’m currently working on [Regie.ai](https://regie.ai)
 
