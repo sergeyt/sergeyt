@@ -15,8 +15,7 @@
 [![CodersRank](https://img.shields.io/badge/-codersrank-0077b5?style=round-square&logo=codersrank&logoColor=white&link=https://profile.codersrank.io/user/sergeyt/)](https://profile.codersrank.io/user/sergeyt/)
 [![BioLink](https://img.shields.io/badge/-biolink-0077b5?style=round-square&logo=biolink&logoColor=white&link=https://bio.link/sergeyt)](https://bio.link/sergeyt)
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergeyt&column=3" alt="sergeyt" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=sergeyt&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [Regie.ai](https://regie.ai)
 
