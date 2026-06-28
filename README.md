@@ -17,15 +17,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sergeyt&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on [Regie.ai](https://regie.ai)
-
-- 👨‍💻 All of my projects are available at [https://tsvbits.com/projects](https://tsvbits.com/projects)
-
-- 📝 I spontanously write articles on [https://tsvbits.com](https://tsvbits.com)
+- 🔭 I’m currently evolving [Velocity Core](https://www.keysight.com/us/en/products/ethernet-traffic-emulation/lab-test-automation/velocity-core.html)
 
 - 📫 How to reach me **stodyshev@gmail.com**
 
-- 📄 Know about my experiences [https://tsvbits.com/resume](https://tsvbits.com/resume)
+- 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/sergeytodyshev)
 
 - ⚡ Fun fact **I am Top 5% F# Developer in Russia according to CodersRank :)**
 
