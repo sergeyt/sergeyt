@@ -15,7 +15,7 @@
 [![BioLink](https://img.shields.io/badge/-biolink-0077b5?style=round-square&logo=biolink&logoColor=white&link=https://bio.link/sergeyt)](https://bio.link/sergeyt)
 ![Profile Views](https://komarev.com/ghpvc/?username=sergeyt&label=Profile%20views&color=0e75b6&style=flat-square)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sergeyt&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-silk-one.vercel.app/?username=sergeyt&theme=onedark)](https://github.com/sergeyt/github-profile-trophy)
 
 - 🔭 I’m currently evolving [Velocity Core](https://www.keysight.com/us/en/products/ethernet-traffic-emulation/lab-test-automation/velocity-core.html)
 
